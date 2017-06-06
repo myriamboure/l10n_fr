@@ -1,98 +1,98 @@
 #France
-- name: AIN
+- name: Ain
   country_id: '68'
   id: '101'
-  abbr: AIN
+  abbr: 01
   
-- name: AISNE
+- name: Aisne
   country_id: '68'
   id: '102'
-  abbr: AIS
+  abbr: 02
   
-- name: ALLIER
+- name: Allier
   country_id: '68'
   id: '103'
-  abbr: ALL
+  abbr: 03
   
-- name: HAUTES ALPES
+- name: Hautes-Alpes
   country_id: '68'
   id: '104'
-  abbr: HAL
+  abbr: 05
   
-- name: ALPES DE HAUTE PROVENCE
+- name: Alpes-de-Haute-Provence
   country_id: '68'
   id: '105'
-  abbr: AHP
+  abbr: 04
   
-- name: ALPES MARITIMES
+- name: Alpes-Maritimes
   country_id: '68'
   id: '106'
-  abbr: AM
+  abbr: 06
 
-- name: ARDECHE
+- name: Ardèche
   country_id: '68'
   id: '107'
-  abbr: ARD
+  abbr: 07
 
-- name: ARDENNES
+- name: Ardennes
   country_id: '68'
   id: '108'
-  abbr: ARS
+  abbr: 08
 
-- name: ARIEGE
+- name: Ariège
   country_id: '68'
   id: '109'
-  abbr: ARI
+  abbr: 09
 
-- name: AUBE
+- name: Aube
   country_id: '68'
   id: '110'
-  abbr: AUB
+  abbr: 10
 
-- name: AUDE
+- name: Aude
   country_id: '68'
   id: '111'
-  abbr: AUD
+  abbr: 11
 
-- name: AVEYRON
+- name: Aveyron
   country_id: '68'
   id: '112'
-  abbr: AVE
+  abbr: 12
 
-- name: BOUCHES DU RHONE
+- name: Bouches-du-Rhône
   country_id: '68'
   id: '113'
-  abbr: BDR
+  abbr: 13
 
-- name: CALVADOS
+- name: Calvados
   country_id: '68'
   id: '114'
-  abbr: CAL
+  abbr: 14
 
-- name: CANTAL
+- name: Cantal
   country_id: '68'
   id: '115'
-  abbr: CAN
+  abbr: 15
 
-- name: CHARENTE
+- name: Charente
   country_id: '68'
   id: '116'
-  abbr: CHA
+  abbr: 16
 
-- name: CHARENTE MARITIME
+- name: Charente-Maritime
   country_id: '68'
   id: '117'
-  abbr: CHM
+  abbr: 17
 
-- name: CHER
+- name: Cher
   country_id: '68'
   id: '118'
-  abbr: CHE
+  abbr: 18
 
-- name: CORREZE
+- name: Corrèze
   country_id: '68'
   id: '119'
-  abbr: COR
+  abbr: 19
 
 - name: CORSE DU SUD
   country_id: '68'
