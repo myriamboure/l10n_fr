@@ -9,10 +9,10 @@
   id: '102'
   abbr: AIS
   
-- name: ALLIER
+- name: Allier
   country_id: '68'
   id: '103'
-  abbr: ALL
+  abbr: 03
   
 - name: HAUTES ALPES
   country_id: '68'
